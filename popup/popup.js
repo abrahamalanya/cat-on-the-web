@@ -1,0 +1,1 @@
+console.log("Gato en la consola");
