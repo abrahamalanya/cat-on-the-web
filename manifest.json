@@ -23,7 +23,8 @@
       "js": ["scripts/content.js"],
       "css": ["content.css"],
       "matches": [
-        "<all_urls>"
+        "https://*/*",
+        "http://*/*"
       ]
     }
   ]

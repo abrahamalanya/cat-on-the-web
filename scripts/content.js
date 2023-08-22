@@ -13,7 +13,7 @@ const cats = [
   },
   {
     "image": "https://media.tenor.com/DRd36YfJrnAAAAAj/pog-pog-champ.gif",
-    "message": "AAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    "message": "AAAAAAAAAAAAAA"
   },
   {
     "image": "https://media.tenor.com/lOG0hy6GUgEAAAAj/cat.gif",
@@ -29,7 +29,7 @@ const cats = [
   },
   {
     "image": "https://media.tenor.com/S-Ca_RhnhB4AAAAj/cat-eat-funny-cat.gif",
-    "nessage": "Sigue trabajando..."
+    "message": "Sigue trabajando..."
   },
   {
     "image": "https://media.tenor.com/K-pziHyeqb8AAAAj/fat-cat-smile.gif",
