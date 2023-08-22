@@ -10,6 +10,38 @@ const cats = [
   {
     "image": "https://media.tenor.com/Z73zwxJhLpsAAAAj/cat.gif",
     "message": "Escucha una rolita"
+  },
+  {
+    "image": "https://media.tenor.com/DRd36YfJrnAAAAAj/pog-pog-champ.gif",
+    "message": "AAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+  },
+  {
+    "image": "https://media.tenor.com/lOG0hy6GUgEAAAAj/cat.gif",
+    "message": "Que bonit@ te vez hoy"
+  },
+  {
+    "image": "https://media.tenor.com/1NRoxR1fXngAAAAj/hug-cat.gif",
+    "message": "Toma un besito"
+  },
+  {
+    "image": "https://media.tenor.com/H2XkU7AAzeQAAAAj/horimiya-sad-cat.gif",
+    "message": "Onichan, meow"
+  },
+  {
+    "image": "https://media.tenor.com/S-Ca_RhnhB4AAAAj/cat-eat-funny-cat.gif",
+    "nessage": "Sigue trabajando..."
+  },
+  {
+    "image": "https://media.tenor.com/K-pziHyeqb8AAAAj/fat-cat-smile.gif",
+    "message": "... Holi"
+  },
+  {
+    "image": "https://media.tenor.com/HJysfhmkVcQAAAAj/cat-chat.gif",
+    "message": "Toma agua."
+  },
+  {
+    "image": "https://media.tenor.com/wz6SW4PchtIAAAAj/cat-thumbs-up.gif",
+    "message": "Lo estas haciendo BIEN"
   }
 ]
 
